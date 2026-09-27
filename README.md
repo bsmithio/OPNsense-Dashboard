@@ -1,3 +1,5 @@
+No longer maintained by me. I have not been able to keep up with the updates as life circumstances have gotten in the way of this project. Please check out [tekgnosis-net/OPNsense-Dashboard](https://github.com/tekgnosis-net/OPNsense-Dashboard) for further updates.
+
 # What's Monitored
 - Active Users
 - Uptime
